@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aruanned>
+    <aruanne id="1">
+        <kasutaja>
+            <nimi></nimi>
+            <roll></roll>
+            <siselogimiseaeg></siselogimiseaeg>
+        </kasutaja>
+    </aruanne>
+    <aruanne id="2">
+        <kasutaja>
+            <nimi></nimi>
+            <roll></roll>
+            <siselogimiseaeg></siselogimiseaeg>
+        </kasutaja>
+    </aruanne>
+    <aruanne id="3">
+        <kasutaja>
+            <nimi></nimi>
+            <roll></roll>
+            <siselogimiseaeg></siselogimiseaeg>
+        </kasutaja>
+    </aruanne>
+</aruanned>
